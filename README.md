@@ -9,6 +9,7 @@
 ### 🌱 I’m currently learning:
 
 - Typescript
+- TDD using React Testing Library
 
 ### ⚡ Finished Projects:
 
