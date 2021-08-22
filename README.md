@@ -10,6 +10,9 @@
 
 - Typescript
 - TDD using React Testing Library
+- Php
+- MySQL
+- Laravel
 
 ### ⚡ Finished Projects:
 
