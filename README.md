@@ -3,7 +3,6 @@
 
 ### 🔭 Current Projects:
 
-- DV Hotels - This app will be a hotel reservation app.
 - Nutrition App - This app will provide users food nutrition info. This app is my first typescript project. 
 
 ### 🌱 I’m currently learning:
@@ -13,6 +12,7 @@
 - Php
 - MySQL
 - Laravel
+- Wordpress & WinterCMS
 
 ### ⚡ Finished Projects:
 
