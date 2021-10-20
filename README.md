@@ -4,6 +4,7 @@
 ### 🔭 Current Projects:
 
 - Nutrition App - This app will provide users food nutrition info. This app is my first typescript project. 
+- Signal clone - This app is a clone of Signal a instant messaging service app.
 
 ### 🌱 I’m currently learning:
 
@@ -13,6 +14,7 @@
 - MySQL
 - Laravel
 - Wordpress & WinterCMS
+- React Native
 
 ### ⚡ Finished Projects:
 
