@@ -3,18 +3,13 @@
 
 ### 🔭 Current Projects:
 
-- Nutrition App - This app will provide users food nutrition info. This app is my first typescript project. 
-- Signal clone - This app is a clone of Signal. Signal is a instant messaging service app.
+- Tasks app - This app is a simple task/todo app, but it's my first vue.js app.
 
 ### 🌱 I’m currently learning:
 
 - Typescript
 - TDD using React Testing Library
-- Php
-- MySQL
-- Laravel
 - Wordpress & WinterCMS
-- React Native
 
 ### ⚡ Finished Projects:
 
