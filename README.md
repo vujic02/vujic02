@@ -3,13 +3,12 @@
 
 ### 🔭 Current Projects:
 
-- Tasks app - This app is a simple task/todo app, but it's my first vue.js app.
+- Personal Website v2 - Updating the website and adding new sections (https://www.nikolavujic.com)
 
 ### 🌱 I’m currently learning:
 
+- Redux
 - Typescript
-- TDD using React Testing Library
-- Wordpress & WinterCMS
 
 ### ⚡ Finished Projects:
 
