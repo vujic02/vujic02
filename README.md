@@ -13,9 +13,9 @@
 ### ⚡ Finished Projects:
 
 #### Loplo is an educational app built with Next.js.
-  - Loplo lets you search for a word or phrase in thousands of videos and play the exact time when the word is pronounced by a native speaker.\
-  - Project was created with Next.js advanced features like Middleware & SSG 
-  - [Loplo](https://loplo.com)
+  - Loplo lets you search for a word in thousands of videos and play the exact time when the word is pronounced by a native speaker.\
+  - Project was created with Next.js advanced features like Middleware & SSG \
+  - [Loplo Website](https://loplo.com)
   
 #### Easy Shop is an E-commerce app built with Next.js.
   - The page features shopping cart functionality, with a checkout page.\
