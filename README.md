@@ -3,7 +3,7 @@
 
 ### 🔭 Current Projects:
 
-- Personal Website v2 - Updating the website and adding new sections (https://www.nikolavujic.com)
+- Autoscout24 Clone - European online car marketplace website where you can explore a vast selection of both new and used vehicles.
 
 ### 🌱 I’m currently learning:
 
