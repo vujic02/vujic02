@@ -14,12 +14,12 @@
 
 #### Loplo is an educational app built with Next.js.
   - Loplo lets you search for a word in thousands of videos and play the exact time when the word is pronounced by a native speaker.\
-  - Project was created with Next.js advanced features like Middleware & SSG \
+  - Project was created with Next.js advanced features like Middleware, SSG & ISR \
   - [Loplo Website](https://loplo.com)
   
-#### Easy Shop is an E-commerce app built with Next.js.
-  - The page features shopping cart functionality, with a checkout page.\
-  - Whole app is responsive and the app is fast because of Static Site Generation. 
+#### Uber clone mobile app built using React Native, Redux & Google places API.
+  - Pick origin and destination (Google Maps API, Google Places Autocomplete API, Google Distance Matrix API) \
+  - Cross platform (Web, iOS, Android) 
 
 #### HBO GO is an one-page clone app of hbogo.rs website.
   - The page fetches data from TMDB Api and dynamically creates a slider that \
