@@ -1,14 +1,13 @@
 ## Hi, I'm Nikola 👋
 
-
 ### 🔭 Current Projects:
 
 - Autoscout24 Clone - European online car marketplace website where you can explore a vast selection of both new and used vehicles.
 
 ### 🌱 I’m currently learning:
 
-- Flask
-- SQL Databases
+- Java
+- Django
 
 ### ⚡ Finished Projects:
 
@@ -31,6 +30,9 @@
 
 ### 💻 Github Stats:
  ![My Github Stats](https://github-readme-stats.vercel.app/api?username=vujic02&&show_icons=true&theme=tokyonight&count_private=true)
+
+### 🧑‍💻 Codewars Stats:
+![Codewars stats](https://www.codewars.com/users/Vujke02/badges/large)
  
 ### 📫 How to reach me:
  - [Personal Webiste](https://nikolavujic.com)
