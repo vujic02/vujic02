@@ -30,7 +30,7 @@
   - All notes are ordered by the date added & are added in real time. 
 
 ### 💻 Github Stats:
- ![My Github Stats](https://github-readme-stats.vercel.app/api?username=vujic02&&show_icons=true&theme=tokyonight&count_private=true)
+ ![My Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vujic02&show_icons=true&theme=tokyonight&count_private=true)
 
 ### 🧑‍💻 Codewars Stats:
 ![Codewars stats](https://www.codewars.com/users/Vujke02/badges/large)
