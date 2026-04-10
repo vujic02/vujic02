@@ -2,8 +2,7 @@
 
 ### 🔭 Current Projects:
 
-- Autoscout24 Clone - European online car marketplace website where you can explore a vast selection of both new and used vehicles.
-- Interim project - Impleo Solutions Luxembourg
+- Temporary work agencies project - Impleo Solutions Luxembourg
 
 ### 🌱 I’m currently learning:
 
