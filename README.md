@@ -6,8 +6,9 @@
 
 ### 🌱 I’m currently learning:
 
-- Java
-- MySQL
+- Java (Spring Boot)
+- CI/CD Pipelines
+- Docker
 
 ### ⚡ Finished Projects:
 
